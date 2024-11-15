@@ -78,16 +78,6 @@ The transcription will be displayed as a JSON response.
 ![image](https://github.com/user-attachments/assets/c4f2daf6-138a-4e9b-8098-09b214cfd1da)
 
 
-## Folder Structure
-
-```
-.
-├── app.py                 # Main Flask application
-├── requirements.txt       # Python dependencies
-├── upload_audio.html      # HTML file for uploading audio
-└── speechkey.json          # Google Cloud API credentials (should be kept secret)
-```
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
