@@ -70,7 +70,12 @@ By default, the app will run locally on `http://127.0.0.1:5000/`.
 3. Once the file is uploaded, the app will process it and transcribe the audio to text.
 
 The transcription will be displayed as a JSON response.
+
+
 ![image](https://github.com/user-attachments/assets/ed5fc718-ef13-4c6c-8848-2d75ac919549)
+
+
+![image](https://github.com/user-attachments/assets/c4f2daf6-138a-4e9b-8098-09b214cfd1da)
 
 
 ## Folder Structure
