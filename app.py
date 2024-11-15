@@ -7,7 +7,7 @@ import io
 app = Flask(__name__)
 
 # Configura la variable de entorno para las credenciales de Google Cloud
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = r'C:\\Users\\isala\\Downloads\\traducr audio a texto\\speechkey.json'
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = r'C:\\Users\\isala\\Downloads\\Transcribe-audio-to-text\\speechkey.json'
 
 # Ruta para servir el archivo HTML
 @app.route('/')
